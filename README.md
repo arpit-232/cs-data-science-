@@ -1,8 +1,8 @@
 # Generic-Assignment
-Department-Physics (2nd Year 4th Semester).
+Department-maths (2nd Year 4th Semester).
 
-Roll Number: 2474030
+Roll Number: 2473034
 
-By Panav Bahuguna 
+By Arpit bhandari
 
-To Kamal
+  
